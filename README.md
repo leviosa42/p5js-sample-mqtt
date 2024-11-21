@@ -58,6 +58,11 @@ code p5js-sample-mqtt
 - `sender` 側の時刻[msec]
 - マウスボタンを押しているかどうか
 
+## 参考
+
+- https://qiita.com/emqx_japan/items/b0c010f7b2591575a263
+- https://qiita.com/youtoy/items/7c58de69b4b20543a5b5
+
 ## ライセンス
 
 MIT
